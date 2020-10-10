@@ -23,15 +23,21 @@ an intuitive understanding of the abstract concepts:
 [1806 Linear Algebra github](https://github.com/mitmath/1806)
 
 Statistics 
-from Harvard
+[Harvard statistic 110](https://projects.iq.harvard.edu/stat110/about)
 
 Calculus 
-from MIT
+[MIT 1801 single variable calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+
+Discrete mathematic (mathematics for computer science)
+[MIT 6.042j](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
+
+Stanford CS103, I only got the lecture book.
+
 
 ## 基础程序设计
 Data strcuture and algorithm
 
-Introduction to Algorithm 6.006 from MIT
+[Introduction to Algorithm 6.006 from MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 
 
 ## 计算机核心课程
